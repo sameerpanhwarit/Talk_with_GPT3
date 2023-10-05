@@ -9,7 +9,7 @@ import pyttsx3
 
 r = speech_recognition.Recognizer() 
 
-openai.api_key = 'your Api key Here'
+openai.api_key = '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'
 logo = "----------ChatGPT Python----------"
 def main():
     os.system('cls')
